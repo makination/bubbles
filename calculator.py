@@ -7,7 +7,7 @@ class Calculator:
         return x+y
 
     def sub(self, x, y):
-        return None
+        return x-y
 
     def mult(self, x, y):
         return None
